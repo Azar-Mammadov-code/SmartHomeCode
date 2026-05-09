@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\User\Downloads\SmartHome\main.cpp(35,36): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  RGBBulb.cpp
+  Thermostat.cpp
+  Создание кода...
+  SmartHome.vcxproj -> C:\Users\User\OneDrive\Документы\SmartHome\x64\Debug\SmartHome.exe
